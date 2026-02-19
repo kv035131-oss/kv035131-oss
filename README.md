@@ -75,11 +75,11 @@ Focus: Machine Learning
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=kv035131-os&theme=radical&hide_border=true"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=kv035131-oss&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kv035131-os&theme=react-dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kv035131-oss&theme=react-dark&hide_border=true" />
 
 </div>
 
